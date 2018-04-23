@@ -142,7 +142,7 @@ def handleSheet(sheet):
 	row_data = sheet.row_values(0)
 	col_data = sheet.col_values(0)
 	
-	fileName = row_data[1]                  # 第1行第2列       
+	fileName = row_data[1]                  # Excel 写得那个 List       
 	if fileName == "":
 		print("第1行第2列的名字没有设置")
 		return
@@ -159,7 +159,13 @@ def handleSheet(sheet):
 			'objList' : '', 
 		}
 		
-	dataClass = fileName+"Data"
+
+	if 'L_' in fileName:
+		dataClass = fileName[2:]+"Bean"
+	else:
+		dataClass = fileName+"Data"	
+
+	
 	dataObj = fileName
 
 
