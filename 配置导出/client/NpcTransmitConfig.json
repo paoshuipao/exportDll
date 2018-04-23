@@ -1,0 +1,66 @@
+[
+    {
+        "npcId": 0, 
+        "targetMapId": 0, 
+        "targetZ": 0, 
+        "targetX": 0, 
+        "targetY": 0, 
+        "id": 1
+    }, 
+    {
+        "npcId": 0, 
+        "targetMapId": 0, 
+        "targetZ": 0, 
+        "targetX": 0, 
+        "targetY": 0, 
+        "id": 2
+    }, 
+    {
+        "npcId": 0, 
+        "targetMapId": 0, 
+        "targetZ": 0, 
+        "targetX": 0, 
+        "targetY": 0, 
+        "id": 3
+    }, 
+    {
+        "npcId": 0, 
+        "targetMapId": 0, 
+        "targetZ": 0, 
+        "targetX": 0, 
+        "targetY": 0, 
+        "id": 4
+    }, 
+    {
+        "npcId": 0, 
+        "targetMapId": 0, 
+        "targetZ": 0, 
+        "targetX": 0, 
+        "targetY": 0, 
+        "id": 5
+    }, 
+    {
+        "npcId": 0, 
+        "targetMapId": 0, 
+        "targetZ": 0, 
+        "targetX": 0, 
+        "targetY": 0, 
+        "id": 6
+    }, 
+    {
+        "npcId": 0, 
+        "targetMapId": 0, 
+        "targetZ": 0, 
+        "targetX": 0, 
+        "targetY": 0, 
+        "id": 7
+    }, 
+    {
+        "npcId": 0, 
+        "targetMapId": 0, 
+        "targetZ": 0, 
+        "targetX": 0, 
+        "targetY": 0, 
+        "id": 8
+    }
+]

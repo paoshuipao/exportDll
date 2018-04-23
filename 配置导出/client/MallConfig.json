@@ -1,0 +1,53 @@
+[
+    {
+        "sort": 3, 
+        "discountPrice": 0, 
+        "expirateType": -1, 
+        "salesStatus": 1, 
+        "bindingType": 1, 
+        "sortName": "\u5176\u4ed6", 
+        "price": 0, 
+        "id": 1, 
+        "discount": false, 
+        "expireDel": false, 
+        "showTryDressed": false, 
+        "expirateTime": 0, 
+        "currencyType": 2, 
+        "propsId": 13111, 
+        "goodsType": 0
+    }, 
+    {
+        "sort": 2, 
+        "discountPrice": 0, 
+        "expirateType": -1, 
+        "salesStatus": 0, 
+        "bindingType": 1, 
+        "sortName": "\u6750\u6599", 
+        "price": 0, 
+        "id": 2, 
+        "discount": false, 
+        "expireDel": false, 
+        "showTryDressed": false, 
+        "expirateTime": 0, 
+        "currencyType": 2, 
+        "propsId": 13, 
+        "goodsType": 0
+    }, 
+    {
+        "sort": 1, 
+        "discountPrice": 0, 
+        "expirateType": 0, 
+        "salesStatus": 1, 
+        "bindingType": 1, 
+        "sortName": "\u65f6\u88c5", 
+        "price": 0, 
+        "id": 3, 
+        "discount": false, 
+        "expireDel": true, 
+        "showTryDressed": true, 
+        "expirateTime": 432, 
+        "currencyType": 2, 
+        "propsId": 16001, 
+        "goodsType": 0
+    }
+]

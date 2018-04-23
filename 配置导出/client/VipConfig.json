@@ -1,0 +1,42 @@
+[
+    {
+        "dailyRewardProps": "13105_10_1", 
+        "remoteStorage": 1, 
+        "remoteShop": 1, 
+        "preciseAdd": 14, 
+        "physiqueAdd": 12, 
+        "gailAdd": 13, 
+        "energyAdd": 10, 
+        "obtainMoney": 0, 
+        "fightingWillAdd": 10, 
+        "validity": 432000000, 
+        "soulTowerCountAdd": 1, 
+        "useRewardProps": "5_10_1", 
+        "buffId": 0, 
+        "constitutionAdd": 11, 
+        "powerAdd": 10, 
+        "vipName": 0, 
+        "type": 1, 
+        "id": 1
+    }, 
+    {
+        "dailyRewardProps": "13105_10_1", 
+        "remoteStorage": 1, 
+        "remoteShop": 1, 
+        "preciseAdd": 14, 
+        "physiqueAdd": 12, 
+        "gailAdd": 13, 
+        "energyAdd": 10, 
+        "obtainMoney": 200, 
+        "fightingWillAdd": 10, 
+        "validity": 2592000000, 
+        "soulTowerCountAdd": 1, 
+        "useRewardProps": "5_10_1", 
+        "buffId": 0, 
+        "constitutionAdd": 11, 
+        "powerAdd": 10, 
+        "vipName": 0, 
+        "type": 2, 
+        "id": 2
+    }
+]

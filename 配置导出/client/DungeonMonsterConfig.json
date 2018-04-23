@@ -1,0 +1,54 @@
+[
+    {
+        "bornZ": 0, 
+        "bornX": 0, 
+        "bornY": 0, 
+        "direction": 0, 
+        "round": 0, 
+        "monsterFightId": 0, 
+        "rate": 0, 
+        "guardSpirit": false, 
+        "guardMonster": false, 
+        "dungeonId": 0, 
+        "id": 1
+    }, 
+    {
+        "bornZ": 0, 
+        "bornX": 0, 
+        "bornY": 0, 
+        "direction": 0, 
+        "round": 0, 
+        "monsterFightId": 0, 
+        "rate": 0, 
+        "guardSpirit": false, 
+        "guardMonster": false, 
+        "dungeonId": 0, 
+        "id": 2
+    }, 
+    {
+        "bornZ": 0, 
+        "bornX": 0, 
+        "bornY": 0, 
+        "direction": 0, 
+        "round": 0, 
+        "monsterFightId": 0, 
+        "rate": 0, 
+        "guardSpirit": false, 
+        "guardMonster": false, 
+        "dungeonId": 0, 
+        "id": 3
+    }, 
+    {
+        "bornZ": 0, 
+        "bornX": 0, 
+        "bornY": 0, 
+        "direction": 0, 
+        "round": 0, 
+        "monsterFightId": 0, 
+        "rate": 0, 
+        "guardSpirit": false, 
+        "guardMonster": false, 
+        "dungeonId": 0, 
+        "id": 4
+    }
+]

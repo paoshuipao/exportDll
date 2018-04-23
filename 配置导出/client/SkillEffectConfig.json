@@ -1,0 +1,354 @@
+[
+    {
+        "name": "\u51b2\u51fb\u6280\u80fd", 
+        "skillLevel": 1, 
+        "damageRatio": 120, 
+        "mp": 20, 
+        "id": 3001, 
+        "skillId": 3
+    }, 
+    {
+        "name": "\u51b2\u51fb\u6280\u80fd", 
+        "skillLevel": 2, 
+        "damageRatio": 130, 
+        "mp": 30, 
+        "id": 3002, 
+        "skillId": 3
+    }, 
+    {
+        "name": "\u51b2\u51fb\u6280\u80fd", 
+        "skillLevel": 3, 
+        "damageRatio": 140, 
+        "mp": 40, 
+        "id": 3003, 
+        "skillId": 3
+    }, 
+    {
+        "name": "\u51b2\u51fb\u6280\u80fd", 
+        "skillLevel": 4, 
+        "damageRatio": 150, 
+        "mp": 50, 
+        "id": 3004, 
+        "skillId": 3
+    }, 
+    {
+        "name": "\u51b2\u51fb\u6280\u80fd", 
+        "skillLevel": 5, 
+        "damageRatio": 160, 
+        "mp": 60, 
+        "id": 3005, 
+        "skillId": 3
+    }, 
+    {
+        "name": "\u51b2\u51fb\u6280\u80fd", 
+        "skillLevel": 6, 
+        "damageRatio": 170, 
+        "mp": 70, 
+        "id": 3006, 
+        "skillId": 3
+    }, 
+    {
+        "name": "\u51b2\u51fb\u6280\u80fd", 
+        "skillLevel": 7, 
+        "damageRatio": 180, 
+        "mp": 80, 
+        "id": 3007, 
+        "skillId": 3
+    }, 
+    {
+        "name": "\u51b2\u51fb\u6280\u80fd", 
+        "skillLevel": 8, 
+        "damageRatio": 190, 
+        "mp": 90, 
+        "id": 3008, 
+        "skillId": 3
+    }, 
+    {
+        "name": "\u51b2\u51fb\u6280\u80fd", 
+        "skillLevel": 9, 
+        "damageRatio": 200, 
+        "mp": 100, 
+        "id": 3009, 
+        "skillId": 3
+    }, 
+    {
+        "name": "\u51b2\u51fb\u6280\u80fd", 
+        "skillLevel": 10, 
+        "damageRatio": 210, 
+        "mp": 110, 
+        "id": 3010, 
+        "skillId": 3
+    }, 
+    {
+        "name": "\u91cd\u5288", 
+        "skillLevel": 1, 
+        "damageRatio": 75, 
+        "mp": 50, 
+        "id": 4001, 
+        "skillId": 4
+    }, 
+    {
+        "name": "\u91cd\u5288", 
+        "skillLevel": 2, 
+        "damageRatio": 80, 
+        "mp": 60, 
+        "id": 4002, 
+        "skillId": 4
+    }, 
+    {
+        "name": "\u91cd\u5288", 
+        "skillLevel": 3, 
+        "damageRatio": 85, 
+        "mp": 70, 
+        "id": 4003, 
+        "skillId": 4
+    }, 
+    {
+        "name": "\u91cd\u5288", 
+        "skillLevel": 4, 
+        "damageRatio": 90, 
+        "mp": 80, 
+        "id": 4004, 
+        "skillId": 4
+    }, 
+    {
+        "name": "\u91cd\u5288", 
+        "skillLevel": 5, 
+        "damageRatio": 95, 
+        "mp": 90, 
+        "id": 4005, 
+        "skillId": 4
+    }, 
+    {
+        "name": "\u91cd\u5288", 
+        "skillLevel": 6, 
+        "damageRatio": 100, 
+        "mp": 100, 
+        "id": 4006, 
+        "skillId": 4
+    }, 
+    {
+        "name": "\u91cd\u5288", 
+        "skillLevel": 7, 
+        "damageRatio": 105, 
+        "mp": 110, 
+        "id": 4007, 
+        "skillId": 4
+    }, 
+    {
+        "name": "\u91cd\u5288", 
+        "skillLevel": 8, 
+        "damageRatio": 110, 
+        "mp": 120, 
+        "id": 4008, 
+        "skillId": 4
+    }, 
+    {
+        "name": "\u91cd\u5288", 
+        "skillLevel": 9, 
+        "damageRatio": 115, 
+        "mp": 130, 
+        "id": 4009, 
+        "skillId": 4
+    }, 
+    {
+        "name": "\u91cd\u5288", 
+        "skillLevel": 10, 
+        "damageRatio": 120, 
+        "mp": 140, 
+        "id": 4010, 
+        "skillId": 4
+    }, 
+    {
+        "name": "\u56de\u65cb", 
+        "skillLevel": 1, 
+        "damageRatio": 100, 
+        "mp": 30, 
+        "id": 5001, 
+        "skillId": 5
+    }, 
+    {
+        "name": "\u56de\u65cb", 
+        "skillLevel": 2, 
+        "damageRatio": 120, 
+        "mp": 40, 
+        "id": 5002, 
+        "skillId": 5
+    }, 
+    {
+        "name": "\u56de\u65cb", 
+        "skillLevel": 3, 
+        "damageRatio": 140, 
+        "mp": 50, 
+        "id": 5003, 
+        "skillId": 5
+    }, 
+    {
+        "name": "\u56de\u65cb", 
+        "skillLevel": 4, 
+        "damageRatio": 160, 
+        "mp": 60, 
+        "id": 5004, 
+        "skillId": 5
+    }, 
+    {
+        "name": "\u56de\u65cb", 
+        "skillLevel": 5, 
+        "damageRatio": 180, 
+        "mp": 70, 
+        "id": 5005, 
+        "skillId": 5
+    }, 
+    {
+        "name": "\u56de\u65cb", 
+        "skillLevel": 6, 
+        "damageRatio": 200, 
+        "mp": 80, 
+        "id": 5006, 
+        "skillId": 5
+    }, 
+    {
+        "name": "\u56de\u65cb", 
+        "skillLevel": 7, 
+        "damageRatio": 220, 
+        "mp": 90, 
+        "id": 5007, 
+        "skillId": 5
+    }, 
+    {
+        "name": "\u56de\u65cb", 
+        "skillLevel": 8, 
+        "damageRatio": 240, 
+        "mp": 100, 
+        "id": 5008, 
+        "skillId": 5
+    }, 
+    {
+        "name": "\u56de\u65cb", 
+        "skillLevel": 9, 
+        "damageRatio": 260, 
+        "mp": 110, 
+        "id": 5009, 
+        "skillId": 5
+    }, 
+    {
+        "name": "\u56de\u65cb", 
+        "skillLevel": 10, 
+        "damageRatio": 280, 
+        "mp": 120, 
+        "id": 5010, 
+        "skillId": 5
+    }, 
+    {
+        "name": "\u76f4\u7ebf\u5730\u9707", 
+        "skillLevel": 1, 
+        "damageRatio": 150, 
+        "mp": 30, 
+        "id": 6001, 
+        "skillId": 6
+    }, 
+    {
+        "name": "\u76f4\u7ebf\u5730\u9707", 
+        "skillLevel": 2, 
+        "damageRatio": 175, 
+        "mp": 40, 
+        "id": 6002, 
+        "skillId": 6
+    }, 
+    {
+        "name": "\u76f4\u7ebf\u5730\u9707", 
+        "skillLevel": 3, 
+        "damageRatio": 200, 
+        "mp": 50, 
+        "id": 6003, 
+        "skillId": 6
+    }, 
+    {
+        "name": "\u76f4\u7ebf\u5730\u9707", 
+        "skillLevel": 4, 
+        "damageRatio": 225, 
+        "mp": 60, 
+        "id": 6004, 
+        "skillId": 6
+    }, 
+    {
+        "name": "\u76f4\u7ebf\u5730\u9707", 
+        "skillLevel": 5, 
+        "damageRatio": 250, 
+        "mp": 70, 
+        "id": 6005, 
+        "skillId": 6
+    }, 
+    {
+        "name": "\u76f4\u7ebf\u5730\u9707", 
+        "skillLevel": 6, 
+        "damageRatio": 275, 
+        "mp": 80, 
+        "id": 6006, 
+        "skillId": 6
+    }, 
+    {
+        "name": "\u76f4\u7ebf\u5730\u9707", 
+        "skillLevel": 7, 
+        "damageRatio": 300, 
+        "mp": 90, 
+        "id": 6007, 
+        "skillId": 6
+    }, 
+    {
+        "name": "\u76f4\u7ebf\u5730\u9707", 
+        "skillLevel": 8, 
+        "damageRatio": 325, 
+        "mp": 100, 
+        "id": 6008, 
+        "skillId": 6
+    }, 
+    {
+        "name": "\u76f4\u7ebf\u5730\u9707", 
+        "skillLevel": 9, 
+        "damageRatio": 350, 
+        "mp": 110, 
+        "id": 6009, 
+        "skillId": 6
+    }, 
+    {
+        "name": "\u76f4\u7ebf\u5730\u9707", 
+        "skillLevel": 10, 
+        "damageRatio": 375, 
+        "mp": 120, 
+        "id": 6010, 
+        "skillId": 6
+    }, 
+    {
+        "name": "\u5fcd\u8005\u81ea\u7206\u672f", 
+        "skillLevel": 1, 
+        "damageRatio": 300, 
+        "mp": 0, 
+        "id": 116001, 
+        "skillId": 116
+    }, 
+    {
+        "name": "\u661f\u7403\u7206\u70b8", 
+        "skillLevel": 1, 
+        "damageRatio": 300, 
+        "mp": 0, 
+        "id": 13701, 
+        "skillId": 137
+    }, 
+    {
+        "name": "\u70bc\u72f1", 
+        "skillLevel": 1, 
+        "damageRatio": 150, 
+        "mp": 250, 
+        "id": 14301, 
+        "skillId": 143
+    }, 
+    {
+        "name": "\u7535\u7cfb\u6b66\u5668\u4f24\u5bb3", 
+        "skillLevel": 1, 
+        "damageRatio": 0, 
+        "mp": 0, 
+        "id": 14801, 
+        "skillId": 148
+    }
+]

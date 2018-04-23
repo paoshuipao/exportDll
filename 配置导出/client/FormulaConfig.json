@@ -1,0 +1,6 @@
+[
+    {
+        "expression": "Math.floor(n1+n2*)", 
+        "id": 10001
+    }
+]

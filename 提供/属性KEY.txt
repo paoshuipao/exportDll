@@ -1,0 +1,234 @@
+	// ########一级属性########
+
+
+	// ########角色属性2000########
+
+	/** 血量 */
+	int HP = 2000;
+	
+	/** 最大血量 */
+	int HP_MAX = 2001;
+
+	/** 法力 */
+	int MP = 2002;
+	
+	/** 最大法力 */
+	int MP_MAX = 2003;
+
+	
+	/** 当前经验 */
+	int EXP = 2006;
+
+	/** 升级到下一级的经验 */
+	int EXP_MAX = 2007;
+
+	/** 等级 */
+	int LEVEL = 2008;
+
+	/** 绑金币 */
+	int GOLD_COIN = 2011;
+
+	int JING_SHI = 2012;
+
+	/** 头像 */
+	int ICON = 2014;
+
+	/** 名称 */
+	int NAME = 2015;
+
+	/** 职业 */
+	int JOB = 2016;
+
+	/** 称号 */
+	int TITLE = 2017;
+
+	/** 体力 */
+	int POWER = 2018;
+
+	/** 最大体力 */
+	int POWER_MAX = 2019;
+
+	/** 活力 */
+	int ENERGY = 2020;
+
+	/** 最大活力 */
+	int ENERGY_MAX = 2021;
+
+	/** 公会ID */
+	int GUILD_ID = 2022;
+
+	/** 公会名称 */
+	int GUILD_NAME = 2023;
+
+	/** X轴坐标 */
+	int X = 2024;
+
+	int Y = 2025;
+
+	int Z = 2026;
+
+	/** 人物方向 */
+	int DIRECTION = 2027;
+	
+	/** 头盔 */
+	int HELMET = 2028;
+
+	/** 衣服(怪物,玩家的外观) */
+	int COAT = 2029;
+
+	/** 裤子 */
+	int TROUSERS = 2030;
+
+	/** 护腕 */
+	int BRACER = 2031;
+
+	/** 鞋子 */
+	int SHOES = 2032;
+
+	/** 武器 */
+	int WEAPON = 2033;
+
+	/** 服装 */
+	int CLOTH = 2034;
+
+	/** 时装是否隐藏 */
+	int CLOTH_HIDE = 2035;
+
+	/** 基础ID(NPC,传送点,采集物等) */
+	int BASE_ID = 2036;
+
+	/** 组队ID */
+	int TEAM_ID = 2037;
+
+	/** vip信息 */
+	int VIP_INFO = 2038;
+
+	/** VIP等级 */
+	int VIP_LEVEL = 2039;
+
+	/** 移动速度 */
+	int MOVE_SPEED = 2040;
+
+	/** 攻击力 */
+	int ATTACK = 2041;
+
+	/** 防御力 */
+	int DEFENSE = 2042;
+
+	/** 会心 */
+	int CRITICAL = 2043;
+
+	/** 会心防御 */
+	int CRITICAL_DEFENSE = 2044;
+
+	/** 命中 */
+	int HIT = 2045;
+
+	/** 闪避 */
+	int DODGE = 2046;
+
+	/** 水抗 */
+	int ANTI_WATER = 2047;
+
+	/** 火抗 */
+	int ANTI_FIRE = 2048;
+
+	/** 风抗 */
+	int ANTI_WIND = 2049;
+
+	/** 土抗 */
+	int ANTI_SOIL = 2050;
+
+	/** 水攻 */
+	int WATER_ATTACK = 2051;
+	
+	/** 火攻 */
+	int FIRE_ATTACK = 2052;
+	
+	/** 风攻 */
+	int WIND_ATTACK = 2053;
+	
+	/** 土攻 */
+	int SOIL_ATTACK = 2054;
+
+	/** 战斗模式 */
+	int FIGHT_MODE = 2055;
+
+	/** 仇恨值 */
+	int HATRED = 2056;
+
+	/** 善恶值 */
+	int GOOD_EVIL = 2057;
+	
+	/** 背包最大格子数 */
+	int PACK_SIZE = 2058;
+
+	/** 仓库的大小 */
+	int STORAGE_SIZE = 2059;
+
+	/** 角色基础战斗力加成 */
+	int PLAYER_BASIC_CAPACITY = 2060;
+
+	/** 角色宝石战斗力加成 */
+	int PLAYER_GEM_CAPACITY = 2061;
+
+	/** 角色星座战斗力加成 */
+	int PLAYER_HOROSCOPE_CAPACITY = 2062;
+
+	/** 角色装备战斗力加成 */
+	int PLAYER_EQUIP_CAPACITY = 2063;
+
+	/** 角色宠物战斗力加成 */
+	int PLAYER_PET_CAPACITY = 2064;
+
+	/** 角色成就战斗力加成 */
+	int PLAYER_ACHIEVEMENT_CAPACITY = 2065;
+
+	/** 角色公会战斗力加成 */
+	int PLAYER_GUILD_CAPACITY = 2066;
+
+	/** 角色技能战斗力加成 */
+	int PLAYER_SKILL_CAPACITY = 2067;
+
+	/** 角色元神战斗力加成 */
+	int PLAYER_MENTALITY_CAPACITY = 2068;
+
+	/** 角色总战斗力 */
+	int FIGHT_TOTAL_CAPACITY = 2069;
+
+	// ########其他特殊属性########
+	/** 服务器ID标识 */
+	int SERVER_ID = 3000;
+
+	/** 创建时间 */
+	int CREATE_TIME = 3003;
+
+	/** 登陆时间 */
+	int LOGIN_TIME = 3004;
+
+	/** 登出时间 */
+	int LOGOUT_TIME = 3005;
+
+	/** 禁止登陆信息. (格式: 封禁状态_封禁起始时间(单位:秒)_封禁时长(单位:秒) ) */
+	int FORBID_LOGIN = 3006;
+
+	/** 禁止聊天信息. (格式: 封禁状态_封禁起始时间(单位:秒)_封禁时长(单位:秒) ) */
+	int FORBID_CHAT = 3007;
+
+	/** 登陆次数 */
+	int LOGIN_COUNT = 3008;
+
+	/** 连续登陆天数 */
+	int LOGIN_DAYS = 3009;
+
+	/** 总共登陆的天数 */
+	int TOTAL_LOGIN_DAYS = 3010;
+
+	/** 共在线时间. 单位:秒 */
+	int ONLINE_TIMES = 3011;
+
+	/** 总共在线时间. 单位:秒 */
+	int TOTAL_ONLINE_TIMES = 3012;
+	
+	
+	

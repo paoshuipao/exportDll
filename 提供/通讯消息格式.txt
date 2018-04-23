@@ -1,0 +1,21 @@
+请求消息协议：消息头+消息体
+消息头:
+	消息头标识((byte) 0xcc)
+	消息体长度(int)
+消息体：
+	流水号		int
+	模块ID		byte
+	命令ID		short
+	数据对象	PBObject
+
+响应消息协议：消息头+消息体
+消息头:
+	消息头标识((byte) 0xcc)
+	消息体长度(int)
+消息体：
+	流水号		int
+	模块ID		byte
+	命令ID		short
+	服务器时间	int
+	响应标识	short
+	数据对象	PBObject

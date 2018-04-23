@@ -1,0 +1,74 @@
+[
+    {
+        "LogicTemplate": "QuestNpcAI", 
+        "AniSpeed": 100, 
+        "textureReplace": "", 
+        "model": "models/npcs/mage", 
+        "id": 20001, 
+        "name": "\u5de8\u7259\u5b50"
+    }, 
+    {
+        "LogicTemplate": "QuestNpcAI", 
+        "AniSpeed": 100, 
+        "textureReplace": "", 
+        "model": "models/npcs/gemcutter", 
+        "id": 20002, 
+        "name": "\u706d\u5a46"
+    }, 
+    {
+        "LogicTemplate": "QuestNpcAI", 
+        "AniSpeed": 100, 
+        "textureReplace": "", 
+        "model": "models/npcs/sage", 
+        "id": 20003, 
+        "name": "\u81f3\u82e5"
+    }, 
+    {
+        "LogicTemplate": "QuestNpcAI", 
+        "AniSpeed": 100, 
+        "textureReplace": "", 
+        "model": "models/npcs/brink", 
+        "id": 20004, 
+        "name": "\u4e1c\u6e56"
+    }, 
+    {
+        "LogicTemplate": "QuestNpcAI", 
+        "AniSpeed": 100, 
+        "textureReplace": "", 
+        "model": "models/npcs/female", 
+        "id": 20005, 
+        "name": "\u79e6\u60c5"
+    }, 
+    {
+        "LogicTemplate": "QuestNpcAI", 
+        "AniSpeed": 100, 
+        "textureReplace": "", 
+        "model": "models/npcs/gambler", 
+        "id": 20006, 
+        "name": "\u4e07\u5c71"
+    }, 
+    {
+        "LogicTemplate": "QuestNpcAI", 
+        "AniSpeed": 100, 
+        "textureReplace": "", 
+        "model": "models/npcs/boy", 
+        "id": 20007, 
+        "name": "\u963f\u725b"
+    }, 
+    {
+        "LogicTemplate": "FollowNpcAI", 
+        "AniSpeed": 100, 
+        "textureReplace": "", 
+        "model": "models/npcs/sage", 
+        "id": 20008, 
+        "name": "\u81f3\u82e5"
+    }, 
+    {
+        "LogicTemplate": "FollowNpcAI", 
+        "AniSpeed": 100, 
+        "textureReplace": "", 
+        "model": "models/npcs/brink", 
+        "id": 20009, 
+        "name": "\u4e1c\u6e56"
+    }
+]

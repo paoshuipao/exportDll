@@ -1,0 +1,16 @@
+[
+    {
+        "activeParticle": "bowline", 
+        "name": "\u666e\u901a\u8fdc\u7a0b\u653b\u51fb\u5b50\u5f39", 
+        "dieParticle": "swordhit", 
+        "velocity": 10, 
+        "radius": 5, 
+        "releasedParticle": "", 
+        "y": 2, 
+        "x": 0, 
+        "z": 0, 
+        "maxDistance": 20, 
+        "id": 1, 
+        "hitParticle": "swordhit"
+    }
+]

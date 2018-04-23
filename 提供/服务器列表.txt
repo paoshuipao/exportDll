@@ -1,0 +1,4 @@
+http://10.1.2.25:8080/server.json
+
+¸üĞÂµØÖ·:
+/home/environment/apache-tomcat-7.0.57/webapps/ROOT/server.json

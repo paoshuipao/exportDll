@@ -1,0 +1,28 @@
+[
+    {
+        "rewardProps": "5_10_1", 
+        "typeDescribe": "\u5f00\u901a\u6708\u5361\u6bcf\u65e5\u53ef\u9886\u53d6", 
+        "goldTicket": 10, 
+        "silverCoin": 10, 
+        "goldCoin": 10, 
+        "typeName": "\u6bcf\u65e5\u6708\u5361\u793c\u5305", 
+        "giftType": 1, 
+        "type": 101, 
+        "id": 1, 
+        "rewardEquips": "", 
+        "silverTicket": 10
+    }, 
+    {
+        "rewardProps": "5_10_1", 
+        "typeDescribe": "\u5f00\u901a\u6708\u5361\u540e\u53ef\u9886\u53d6", 
+        "goldTicket": 20, 
+        "silverCoin": 20, 
+        "goldCoin": 20, 
+        "typeName": "\u5f00\u901a\u6708\u5361\u793c\u5305", 
+        "giftType": 2, 
+        "type": 101, 
+        "id": 2, 
+        "rewardEquips": "", 
+        "silverTicket": 20
+    }
+]

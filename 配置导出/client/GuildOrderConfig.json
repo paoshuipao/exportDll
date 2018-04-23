@@ -1,0 +1,30 @@
+[
+    {
+        "order": 1, 
+        "icon": "", 
+        "id": 1001, 
+        "wuGuanLevel": 1, 
+        "name": ""
+    }, 
+    {
+        "order": 2, 
+        "icon": "", 
+        "id": 1002, 
+        "wuGuanLevel": 1, 
+        "name": ""
+    }, 
+    {
+        "order": 3, 
+        "icon": "", 
+        "id": 1003, 
+        "wuGuanLevel": 2, 
+        "name": ""
+    }, 
+    {
+        "order": 4, 
+        "icon": "", 
+        "id": 1004, 
+        "wuGuanLevel": 2, 
+        "name": ""
+    }
+]

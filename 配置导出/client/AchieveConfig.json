@@ -1,0 +1,30 @@
+[
+    {
+        "description": "\u89e3\u9501\u4e00\u4e2a\u70bc\u91d1\u914d\u65b9", 
+        "achievementType": 4, 
+        "achievementName": "\u70bc\u91d1\u65b0\u624b", 
+        "id": 5000, 
+        "addAttribute": "1000_50|1001_30"
+    }, 
+    {
+        "description": "\u89e3\u9501\u4e00\u4e2a\u70bc\u91d1\u914d\u65b9", 
+        "achievementType": 4, 
+        "achievementName": "\u70bc\u91d1\u65b0\u624b", 
+        "id": 5001, 
+        "addAttribute": "1000_50|1001_30"
+    }, 
+    {
+        "description": "\u89e3\u9501\u4e00\u4e2a\u70bc\u91d1\u914d\u65b9", 
+        "achievementType": 4, 
+        "achievementName": "\u70bc\u91d1\u65b0\u624b", 
+        "id": 5002, 
+        "addAttribute": "1000_50|1001_32"
+    }, 
+    {
+        "description": "\u89e3\u9501\u4e00\u4e2a\u70bc\u91d1\u914d\u65b9", 
+        "achievementType": 4, 
+        "achievementName": "\u70bc\u91d1\u65b0\u624b", 
+        "id": 5003, 
+        "addAttribute": "1000_50|1001_33"
+    }
+]

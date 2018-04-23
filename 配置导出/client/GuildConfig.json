@@ -1,0 +1,46 @@
+[
+    {
+        "priestssCount": 4, 
+        "leaderCount": 1, 
+        "deputyLeaderCount": 2, 
+        "maintainExpend": 1000, 
+        "memberLimit": 40, 
+        "captainCount": 6, 
+        "wuGuanLevel": 1, 
+        "id": 1, 
+        "upgradeResourse": 10000
+    }, 
+    {
+        "priestssCount": 4, 
+        "leaderCount": 1, 
+        "deputyLeaderCount": 2, 
+        "maintainExpend": 2000, 
+        "memberLimit": 60, 
+        "captainCount": 6, 
+        "wuGuanLevel": 2, 
+        "id": 2, 
+        "upgradeResourse": 20000
+    }, 
+    {
+        "priestssCount": 4, 
+        "leaderCount": 1, 
+        "deputyLeaderCount": 2, 
+        "maintainExpend": 3000, 
+        "memberLimit": 80, 
+        "captainCount": 6, 
+        "wuGuanLevel": 3, 
+        "id": 3, 
+        "upgradeResourse": 30000
+    }, 
+    {
+        "priestssCount": 4, 
+        "leaderCount": 1, 
+        "deputyLeaderCount": 2, 
+        "maintainExpend": 4000, 
+        "memberLimit": 100, 
+        "captainCount": 6, 
+        "wuGuanLevel": 4, 
+        "id": 4, 
+        "upgradeResourse": 40000
+    }
+]

@@ -1,0 +1,770 @@
+[
+    {
+        "horoscopeType": 0, 
+        "name": "\u767d\u7f8a\u5ea71\u7ea7", 
+        "level": 1, 
+        "attrKey": 1, 
+        "id": 1, 
+        "addtionProperty": 5
+    }, 
+    {
+        "horoscopeType": 0, 
+        "name": "\u767d\u7f8a\u5ea72\u7ea7", 
+        "level": 2, 
+        "attrKey": 1, 
+        "id": 2, 
+        "addtionProperty": 10
+    }, 
+    {
+        "horoscopeType": 0, 
+        "name": "\u767d\u7f8a\u5ea73\u7ea7", 
+        "level": 3, 
+        "attrKey": 1, 
+        "id": 3, 
+        "addtionProperty": 15
+    }, 
+    {
+        "horoscopeType": 0, 
+        "name": "\u767d\u7f8a\u5ea74\u7ea7", 
+        "level": 4, 
+        "attrKey": 1, 
+        "id": 4, 
+        "addtionProperty": 30
+    }, 
+    {
+        "horoscopeType": 0, 
+        "name": "\u767d\u7f8a\u5ea75\u7ea7", 
+        "level": 5, 
+        "attrKey": 1, 
+        "id": 5, 
+        "addtionProperty": 60
+    }, 
+    {
+        "horoscopeType": 0, 
+        "name": "\u767d\u7f8a\u5ea76\u7ea7", 
+        "level": 6, 
+        "attrKey": 1, 
+        "id": 6, 
+        "addtionProperty": 120
+    }, 
+    {
+        "horoscopeType": 0, 
+        "name": "\u767d\u7f8a\u5ea77\u7ea7", 
+        "level": 7, 
+        "attrKey": 1, 
+        "id": 7, 
+        "addtionProperty": 200
+    }, 
+    {
+        "horoscopeType": 0, 
+        "name": "\u767d\u7f8a\u5ea78\u7ea7", 
+        "level": 8, 
+        "attrKey": 1, 
+        "id": 8, 
+        "addtionProperty": 250
+    }, 
+    {
+        "horoscopeType": 1, 
+        "name": "\u91d1\u725b\u5ea71\u7ea7", 
+        "level": 1, 
+        "attrKey": 2, 
+        "id": 9, 
+        "addtionProperty": 5
+    }, 
+    {
+        "horoscopeType": 1, 
+        "name": "\u91d1\u725b\u5ea72\u7ea7", 
+        "level": 2, 
+        "attrKey": 2, 
+        "id": 10, 
+        "addtionProperty": 10
+    }, 
+    {
+        "horoscopeType": 1, 
+        "name": "\u91d1\u725b\u5ea73\u7ea7", 
+        "level": 3, 
+        "attrKey": 2, 
+        "id": 11, 
+        "addtionProperty": 15
+    }, 
+    {
+        "horoscopeType": 1, 
+        "name": "\u91d1\u725b\u5ea74\u7ea7", 
+        "level": 4, 
+        "attrKey": 2, 
+        "id": 12, 
+        "addtionProperty": 30
+    }, 
+    {
+        "horoscopeType": 1, 
+        "name": "\u91d1\u725b\u5ea75\u7ea7", 
+        "level": 5, 
+        "attrKey": 2, 
+        "id": 13, 
+        "addtionProperty": 60
+    }, 
+    {
+        "horoscopeType": 1, 
+        "name": "\u91d1\u725b\u5ea76\u7ea7", 
+        "level": 6, 
+        "attrKey": 2, 
+        "id": 14, 
+        "addtionProperty": 120
+    }, 
+    {
+        "horoscopeType": 1, 
+        "name": "\u91d1\u725b\u5ea77\u7ea7", 
+        "level": 7, 
+        "attrKey": 2, 
+        "id": 15, 
+        "addtionProperty": 200
+    }, 
+    {
+        "horoscopeType": 1, 
+        "name": "\u91d1\u725b\u5ea78\u7ea7", 
+        "level": 8, 
+        "attrKey": 2, 
+        "id": 16, 
+        "addtionProperty": 250
+    }, 
+    {
+        "horoscopeType": 2, 
+        "name": "\u53cc\u5b50\u5ea71\u7ea7", 
+        "level": 1, 
+        "attrKey": 3, 
+        "id": 17, 
+        "addtionProperty": 5
+    }, 
+    {
+        "horoscopeType": 2, 
+        "name": "\u53cc\u5b50\u5ea72\u7ea7", 
+        "level": 2, 
+        "attrKey": 3, 
+        "id": 18, 
+        "addtionProperty": 10
+    }, 
+    {
+        "horoscopeType": 2, 
+        "name": "\u53cc\u5b50\u5ea73\u7ea7", 
+        "level": 3, 
+        "attrKey": 3, 
+        "id": 19, 
+        "addtionProperty": 15
+    }, 
+    {
+        "horoscopeType": 2, 
+        "name": "\u53cc\u5b50\u5ea74\u7ea7", 
+        "level": 4, 
+        "attrKey": 3, 
+        "id": 20, 
+        "addtionProperty": 30
+    }, 
+    {
+        "horoscopeType": 2, 
+        "name": "\u53cc\u5b50\u5ea75\u7ea7", 
+        "level": 5, 
+        "attrKey": 3, 
+        "id": 21, 
+        "addtionProperty": 60
+    }, 
+    {
+        "horoscopeType": 2, 
+        "name": "\u53cc\u5b50\u5ea76\u7ea7", 
+        "level": 6, 
+        "attrKey": 3, 
+        "id": 22, 
+        "addtionProperty": 120
+    }, 
+    {
+        "horoscopeType": 2, 
+        "name": "\u53cc\u5b50\u5ea77\u7ea7", 
+        "level": 7, 
+        "attrKey": 3, 
+        "id": 23, 
+        "addtionProperty": 200
+    }, 
+    {
+        "horoscopeType": 2, 
+        "name": "\u53cc\u5b50\u5ea78\u7ea7", 
+        "level": 8, 
+        "attrKey": 3, 
+        "id": 24, 
+        "addtionProperty": 250
+    }, 
+    {
+        "horoscopeType": 3, 
+        "name": "\u5de8\u87f9\u5ea71\u7ea7", 
+        "level": 1, 
+        "attrKey": 4, 
+        "id": 25, 
+        "addtionProperty": 5
+    }, 
+    {
+        "horoscopeType": 3, 
+        "name": "\u5de8\u87f9\u5ea72\u7ea7", 
+        "level": 2, 
+        "attrKey": 4, 
+        "id": 26, 
+        "addtionProperty": 10
+    }, 
+    {
+        "horoscopeType": 3, 
+        "name": "\u5de8\u87f9\u5ea73\u7ea7", 
+        "level": 3, 
+        "attrKey": 4, 
+        "id": 27, 
+        "addtionProperty": 15
+    }, 
+    {
+        "horoscopeType": 3, 
+        "name": "\u5de8\u87f9\u5ea74\u7ea7", 
+        "level": 4, 
+        "attrKey": 4, 
+        "id": 28, 
+        "addtionProperty": 30
+    }, 
+    {
+        "horoscopeType": 3, 
+        "name": "\u5de8\u87f9\u5ea75\u7ea7", 
+        "level": 5, 
+        "attrKey": 4, 
+        "id": 29, 
+        "addtionProperty": 60
+    }, 
+    {
+        "horoscopeType": 3, 
+        "name": "\u5de8\u87f9\u5ea76\u7ea7", 
+        "level": 6, 
+        "attrKey": 4, 
+        "id": 30, 
+        "addtionProperty": 120
+    }, 
+    {
+        "horoscopeType": 3, 
+        "name": "\u5de8\u87f9\u5ea77\u7ea7", 
+        "level": 7, 
+        "attrKey": 4, 
+        "id": 31, 
+        "addtionProperty": 200
+    }, 
+    {
+        "horoscopeType": 3, 
+        "name": "\u5de8\u87f9\u5ea78\u7ea7", 
+        "level": 8, 
+        "attrKey": 4, 
+        "id": 32, 
+        "addtionProperty": 250
+    }, 
+    {
+        "horoscopeType": 4, 
+        "name": "\u72ee\u5b50\u5ea71\u7ea7", 
+        "level": 1, 
+        "attrKey": 5, 
+        "id": 33, 
+        "addtionProperty": 5
+    }, 
+    {
+        "horoscopeType": 4, 
+        "name": "\u72ee\u5b50\u5ea72\u7ea7", 
+        "level": 2, 
+        "attrKey": 5, 
+        "id": 34, 
+        "addtionProperty": 10
+    }, 
+    {
+        "horoscopeType": 4, 
+        "name": "\u72ee\u5b50\u5ea73\u7ea7", 
+        "level": 3, 
+        "attrKey": 5, 
+        "id": 35, 
+        "addtionProperty": 15
+    }, 
+    {
+        "horoscopeType": 4, 
+        "name": "\u72ee\u5b50\u5ea74\u7ea7", 
+        "level": 4, 
+        "attrKey": 5, 
+        "id": 36, 
+        "addtionProperty": 30
+    }, 
+    {
+        "horoscopeType": 4, 
+        "name": "\u72ee\u5b50\u5ea75\u7ea7", 
+        "level": 5, 
+        "attrKey": 5, 
+        "id": 37, 
+        "addtionProperty": 60
+    }, 
+    {
+        "horoscopeType": 4, 
+        "name": "\u72ee\u5b50\u5ea76\u7ea7", 
+        "level": 6, 
+        "attrKey": 5, 
+        "id": 38, 
+        "addtionProperty": 120
+    }, 
+    {
+        "horoscopeType": 4, 
+        "name": "\u72ee\u5b50\u5ea77\u7ea7", 
+        "level": 7, 
+        "attrKey": 5, 
+        "id": 39, 
+        "addtionProperty": 200
+    }, 
+    {
+        "horoscopeType": 4, 
+        "name": "\u72ee\u5b50\u5ea78\u7ea7", 
+        "level": 8, 
+        "attrKey": 5, 
+        "id": 40, 
+        "addtionProperty": 250
+    }, 
+    {
+        "horoscopeType": 5, 
+        "name": "\u5904\u5973\u5ea71\u7ea7", 
+        "level": 1, 
+        "attrKey": 6, 
+        "id": 41, 
+        "addtionProperty": 5
+    }, 
+    {
+        "horoscopeType": 5, 
+        "name": "\u5904\u5973\u5ea72\u7ea7", 
+        "level": 2, 
+        "attrKey": 6, 
+        "id": 42, 
+        "addtionProperty": 10
+    }, 
+    {
+        "horoscopeType": 5, 
+        "name": "\u5904\u5973\u5ea73\u7ea7", 
+        "level": 3, 
+        "attrKey": 6, 
+        "id": 43, 
+        "addtionProperty": 15
+    }, 
+    {
+        "horoscopeType": 5, 
+        "name": "\u5904\u5973\u5ea74\u7ea7", 
+        "level": 4, 
+        "attrKey": 6, 
+        "id": 44, 
+        "addtionProperty": 30
+    }, 
+    {
+        "horoscopeType": 5, 
+        "name": "\u5904\u5973\u5ea75\u7ea7", 
+        "level": 5, 
+        "attrKey": 6, 
+        "id": 45, 
+        "addtionProperty": 60
+    }, 
+    {
+        "horoscopeType": 5, 
+        "name": "\u5904\u5973\u5ea76\u7ea7", 
+        "level": 6, 
+        "attrKey": 6, 
+        "id": 46, 
+        "addtionProperty": 120
+    }, 
+    {
+        "horoscopeType": 5, 
+        "name": "\u5904\u5973\u5ea77\u7ea7", 
+        "level": 7, 
+        "attrKey": 6, 
+        "id": 47, 
+        "addtionProperty": 200
+    }, 
+    {
+        "horoscopeType": 5, 
+        "name": "\u5904\u5973\u5ea78\u7ea7", 
+        "level": 8, 
+        "attrKey": 6, 
+        "id": 48, 
+        "addtionProperty": 250
+    }, 
+    {
+        "horoscopeType": 6, 
+        "name": "\u5929\u79e4\u5ea71\u7ea7", 
+        "level": 1, 
+        "attrKey": 7, 
+        "id": 49, 
+        "addtionProperty": 5
+    }, 
+    {
+        "horoscopeType": 6, 
+        "name": "\u5929\u79e4\u5ea72\u7ea7", 
+        "level": 2, 
+        "attrKey": 7, 
+        "id": 50, 
+        "addtionProperty": 10
+    }, 
+    {
+        "horoscopeType": 6, 
+        "name": "\u5929\u79e4\u5ea73\u7ea7", 
+        "level": 3, 
+        "attrKey": 7, 
+        "id": 51, 
+        "addtionProperty": 15
+    }, 
+    {
+        "horoscopeType": 6, 
+        "name": "\u5929\u79e4\u5ea74\u7ea7", 
+        "level": 4, 
+        "attrKey": 7, 
+        "id": 52, 
+        "addtionProperty": 30
+    }, 
+    {
+        "horoscopeType": 6, 
+        "name": "\u5929\u79e4\u5ea75\u7ea7", 
+        "level": 5, 
+        "attrKey": 7, 
+        "id": 53, 
+        "addtionProperty": 60
+    }, 
+    {
+        "horoscopeType": 6, 
+        "name": "\u5929\u79e4\u5ea76\u7ea7", 
+        "level": 6, 
+        "attrKey": 7, 
+        "id": 54, 
+        "addtionProperty": 120
+    }, 
+    {
+        "horoscopeType": 6, 
+        "name": "\u5929\u79e4\u5ea77\u7ea7", 
+        "level": 7, 
+        "attrKey": 7, 
+        "id": 55, 
+        "addtionProperty": 200
+    }, 
+    {
+        "horoscopeType": 6, 
+        "name": "\u5929\u79e4\u5ea78\u7ea7", 
+        "level": 8, 
+        "attrKey": 7, 
+        "id": 56, 
+        "addtionProperty": 250
+    }, 
+    {
+        "horoscopeType": 7, 
+        "name": "\u5929\u874e\u5ea71\u7ea7", 
+        "level": 1, 
+        "attrKey": 8, 
+        "id": 57, 
+        "addtionProperty": 5
+    }, 
+    {
+        "horoscopeType": 7, 
+        "name": "\u5929\u874e\u5ea72\u7ea7", 
+        "level": 2, 
+        "attrKey": 8, 
+        "id": 58, 
+        "addtionProperty": 10
+    }, 
+    {
+        "horoscopeType": 7, 
+        "name": "\u5929\u874e\u5ea73\u7ea7", 
+        "level": 3, 
+        "attrKey": 8, 
+        "id": 59, 
+        "addtionProperty": 15
+    }, 
+    {
+        "horoscopeType": 7, 
+        "name": "\u5929\u874e\u5ea74\u7ea7", 
+        "level": 4, 
+        "attrKey": 8, 
+        "id": 60, 
+        "addtionProperty": 30
+    }, 
+    {
+        "horoscopeType": 7, 
+        "name": "\u5929\u874e\u5ea75\u7ea7", 
+        "level": 5, 
+        "attrKey": 8, 
+        "id": 61, 
+        "addtionProperty": 60
+    }, 
+    {
+        "horoscopeType": 7, 
+        "name": "\u5929\u874e\u5ea76\u7ea7", 
+        "level": 6, 
+        "attrKey": 8, 
+        "id": 62, 
+        "addtionProperty": 120
+    }, 
+    {
+        "horoscopeType": 7, 
+        "name": "\u5929\u874e\u5ea77\u7ea7", 
+        "level": 7, 
+        "attrKey": 8, 
+        "id": 63, 
+        "addtionProperty": 200
+    }, 
+    {
+        "horoscopeType": 7, 
+        "name": "\u5929\u874e\u5ea78\u7ea7", 
+        "level": 8, 
+        "attrKey": 8, 
+        "id": 64, 
+        "addtionProperty": 250
+    }, 
+    {
+        "horoscopeType": 8, 
+        "name": "\u5c04\u624b\u5ea71\u7ea7", 
+        "level": 1, 
+        "attrKey": 9, 
+        "id": 65, 
+        "addtionProperty": 5
+    }, 
+    {
+        "horoscopeType": 8, 
+        "name": "\u5c04\u624b\u5ea72\u7ea7", 
+        "level": 2, 
+        "attrKey": 9, 
+        "id": 66, 
+        "addtionProperty": 10
+    }, 
+    {
+        "horoscopeType": 8, 
+        "name": "\u5c04\u624b\u5ea73\u7ea7", 
+        "level": 3, 
+        "attrKey": 9, 
+        "id": 67, 
+        "addtionProperty": 15
+    }, 
+    {
+        "horoscopeType": 8, 
+        "name": "\u5c04\u624b\u5ea74\u7ea7", 
+        "level": 4, 
+        "attrKey": 9, 
+        "id": 68, 
+        "addtionProperty": 30
+    }, 
+    {
+        "horoscopeType": 8, 
+        "name": "\u5c04\u624b\u5ea75\u7ea7", 
+        "level": 5, 
+        "attrKey": 9, 
+        "id": 69, 
+        "addtionProperty": 60
+    }, 
+    {
+        "horoscopeType": 8, 
+        "name": "\u5c04\u624b\u5ea76\u7ea7", 
+        "level": 6, 
+        "attrKey": 9, 
+        "id": 70, 
+        "addtionProperty": 120
+    }, 
+    {
+        "horoscopeType": 8, 
+        "name": "\u5c04\u624b\u5ea77\u7ea7", 
+        "level": 7, 
+        "attrKey": 9, 
+        "id": 71, 
+        "addtionProperty": 200
+    }, 
+    {
+        "horoscopeType": 8, 
+        "name": "\u5c04\u624b\u5ea78\u7ea7", 
+        "level": 8, 
+        "attrKey": 9, 
+        "id": 72, 
+        "addtionProperty": 250
+    }, 
+    {
+        "horoscopeType": 9, 
+        "name": "\u6469\u7faf\u5ea71\u7ea7", 
+        "level": 1, 
+        "attrKey": 10, 
+        "id": 73, 
+        "addtionProperty": 5
+    }, 
+    {
+        "horoscopeType": 9, 
+        "name": "\u6469\u7faf\u5ea72\u7ea7", 
+        "level": 2, 
+        "attrKey": 10, 
+        "id": 74, 
+        "addtionProperty": 10
+    }, 
+    {
+        "horoscopeType": 9, 
+        "name": "\u6469\u7faf\u5ea73\u7ea7", 
+        "level": 3, 
+        "attrKey": 10, 
+        "id": 75, 
+        "addtionProperty": 15
+    }, 
+    {
+        "horoscopeType": 9, 
+        "name": "\u6469\u7faf\u5ea74\u7ea7", 
+        "level": 4, 
+        "attrKey": 10, 
+        "id": 76, 
+        "addtionProperty": 30
+    }, 
+    {
+        "horoscopeType": 9, 
+        "name": "\u6469\u7faf\u5ea75\u7ea7", 
+        "level": 5, 
+        "attrKey": 10, 
+        "id": 77, 
+        "addtionProperty": 60
+    }, 
+    {
+        "horoscopeType": 9, 
+        "name": "\u6469\u7faf\u5ea76\u7ea7", 
+        "level": 6, 
+        "attrKey": 10, 
+        "id": 78, 
+        "addtionProperty": 120
+    }, 
+    {
+        "horoscopeType": 9, 
+        "name": "\u6469\u7faf\u5ea77\u7ea7", 
+        "level": 7, 
+        "attrKey": 10, 
+        "id": 79, 
+        "addtionProperty": 200
+    }, 
+    {
+        "horoscopeType": 9, 
+        "name": "\u6469\u7faf\u5ea78\u7ea7", 
+        "level": 8, 
+        "attrKey": 10, 
+        "id": 80, 
+        "addtionProperty": 250
+    }, 
+    {
+        "horoscopeType": 10, 
+        "name": "\u6c34\u74f6\u5ea71\u7ea7", 
+        "level": 1, 
+        "attrKey": 11, 
+        "id": 81, 
+        "addtionProperty": 5
+    }, 
+    {
+        "horoscopeType": 10, 
+        "name": "\u6c34\u74f6\u5ea72\u7ea7", 
+        "level": 2, 
+        "attrKey": 11, 
+        "id": 82, 
+        "addtionProperty": 10
+    }, 
+    {
+        "horoscopeType": 10, 
+        "name": "\u6c34\u74f6\u5ea73\u7ea7", 
+        "level": 3, 
+        "attrKey": 11, 
+        "id": 83, 
+        "addtionProperty": 15
+    }, 
+    {
+        "horoscopeType": 10, 
+        "name": "\u6c34\u74f6\u5ea74\u7ea7", 
+        "level": 4, 
+        "attrKey": 11, 
+        "id": 84, 
+        "addtionProperty": 30
+    }, 
+    {
+        "horoscopeType": 10, 
+        "name": "\u6c34\u74f6\u5ea75\u7ea7", 
+        "level": 5, 
+        "attrKey": 11, 
+        "id": 85, 
+        "addtionProperty": 60
+    }, 
+    {
+        "horoscopeType": 10, 
+        "name": "\u6c34\u74f6\u5ea76\u7ea7", 
+        "level": 6, 
+        "attrKey": 11, 
+        "id": 86, 
+        "addtionProperty": 120
+    }, 
+    {
+        "horoscopeType": 10, 
+        "name": "\u6c34\u74f6\u5ea77\u7ea7", 
+        "level": 7, 
+        "attrKey": 11, 
+        "id": 87, 
+        "addtionProperty": 200
+    }, 
+    {
+        "horoscopeType": 10, 
+        "name": "\u6c34\u74f6\u5ea78\u7ea7", 
+        "level": 8, 
+        "attrKey": 11, 
+        "id": 88, 
+        "addtionProperty": 250
+    }, 
+    {
+        "horoscopeType": 11, 
+        "name": "\u53cc\u9c7c\u5ea71\u7ea7", 
+        "level": 1, 
+        "attrKey": 12, 
+        "id": 89, 
+        "addtionProperty": 5
+    }, 
+    {
+        "horoscopeType": 11, 
+        "name": "\u53cc\u9c7c\u5ea72\u7ea7", 
+        "level": 2, 
+        "attrKey": 12, 
+        "id": 90, 
+        "addtionProperty": 10
+    }, 
+    {
+        "horoscopeType": 11, 
+        "name": "\u53cc\u9c7c\u5ea73\u7ea7", 
+        "level": 3, 
+        "attrKey": 12, 
+        "id": 91, 
+        "addtionProperty": 15
+    }, 
+    {
+        "horoscopeType": 11, 
+        "name": "\u53cc\u9c7c\u5ea74\u7ea7", 
+        "level": 4, 
+        "attrKey": 12, 
+        "id": 92, 
+        "addtionProperty": 30
+    }, 
+    {
+        "horoscopeType": 11, 
+        "name": "\u53cc\u9c7c\u5ea75\u7ea7", 
+        "level": 5, 
+        "attrKey": 12, 
+        "id": 93, 
+        "addtionProperty": 60
+    }, 
+    {
+        "horoscopeType": 11, 
+        "name": "\u53cc\u9c7c\u5ea76\u7ea7", 
+        "level": 6, 
+        "attrKey": 12, 
+        "id": 94, 
+        "addtionProperty": 120
+    }, 
+    {
+        "horoscopeType": 11, 
+        "name": "\u53cc\u9c7c\u5ea77\u7ea7", 
+        "level": 7, 
+        "attrKey": 12, 
+        "id": 95, 
+        "addtionProperty": 200
+    }, 
+    {
+        "horoscopeType": 11, 
+        "name": "\u53cc\u9c7c\u5ea78\u7ea7", 
+        "level": 8, 
+        "attrKey": 12, 
+        "id": 96, 
+        "addtionProperty": 250
+    }
+]

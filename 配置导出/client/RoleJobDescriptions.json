@@ -1,0 +1,50 @@
+[
+    {
+        "DefaultWardrobe": "wardrobe/Warrior_buluo", 
+        "ModelName": "player/WARRIOR", 
+        "sheet": 0, 
+        "baseSkill": 1, 
+        "tagIcon": "TagZhanshi", 
+        "AttackAniSpeed": 1000, 
+        "attackRange": 3, 
+        "moveSpeed": 60, 
+        "job": "\u6218\u58eb", 
+        "descriptions": "\u6218\u58eb\u62e5\u6709\u8f83\u9ad8\u7684\u8840\u91cf\u548c\u7269\u7406\u9632\u5fa1,\u64c5\u957f\u8fd1\u8eab\u653b\u51fb<br>\u5251\u6cd5:\u5177\u6709\u6781\u9ad8\u7684\u7206\u53d1\u529b<br>\u5251\u6c14:\u9694\u4f4d\u653b\u51fb\u65e0\u89c6\u9632\u5fa1  ", 
+        "criticalHit": 10, 
+        "MoveAniSpeed": 100, 
+        "id": 1, 
+        "icon": "HeadZhanshi"
+    }, 
+    {
+        "DefaultWardrobe": "wardrobe/Armourer_bat", 
+        "ModelName": "player/ARMOURER", 
+        "sheet": 0, 
+        "baseSkill": 7, 
+        "tagIcon": "TagQiangshou", 
+        "AttackAniSpeed": 700, 
+        "attackRange": 20, 
+        "moveSpeed": 60, 
+        "job": "\u67aa\u68b0\u5e08", 
+        "descriptions": "\u67aa\u68b0\u5e08\u62e5\u6709\u6700\u8fdc\u7684\u653b\u51fb\u8ddd\u79bb,\u6301\u7eed\u7684\u7269\u7406\u4f24\u5bb3\u8f93\u51fa<br>\u7bad\u672f:\u64c5\u957f\u8fdc\u7a0b\u5c04\u51fb <br>\u4e00\u6b21\u63a2\u9669\u8ba9\u4ed6\u610f\u8bc6\u5230\u4e86\u81ea\u5df1\u4e0e\u751f\u4ff1\u6765\u7684\u9b54\u6cd5\u5a01\u529b<br>\u5728\u63a2\u7d22\u6055\u745e\u739b\u6c99\u6f20\u7684\u91d1\u5b57\u5854\u65f6,\u4ed6\u53d1\u73b0\u4e86\u4e00\u4ef6\u62e5\u6709\u65e0\u5c3d\u80fd\u91cf\u7684\u6302\u9970", 
+        "criticalHit": 15, 
+        "MoveAniSpeed": 100, 
+        "id": 2, 
+        "icon": "HeadQiangshou"
+    }, 
+    {
+        "DefaultWardrobe": "wardrobe/Assassin_buluo", 
+        "ModelName": "player/STALKER", 
+        "sheet": 0, 
+        "baseSkill": 1, 
+        "tagIcon": "TagCike", 
+        "AttackAniSpeed": 800, 
+        "attackRange": 3, 
+        "moveSpeed": 60, 
+        "job": "\u6f5c\u6740\u8005", 
+        "descriptions": "\u6f5c\u6740\u8005\u62e5\u6709\u6781\u9ad8\u7684\u7269\u7406\u7206\u53d1,\u6740\u4eba\u4e8e\u65e0\u5f62<br>\u523a\u5ba2\u827a\u672f:\u9690\u8eab\u4e8e\u6697\u5904\u968f\u65f6\u81f4\u547d\u654c\u4eba<br>\u81ea\u4ece\u5723\u6218\u4ee5\u540e,\u4e3a\u4e86\u4eba\u7c7b\u4e16\u754c[\u7c73\u5fb7\u52a0\u5c14\u7279],\u523a\u5ba2\u8981\u4e0d\u65ad\u7684\u6740\u622e\u6765\u7ef4\u6301\u4e16\u754c\u7684\u5e73\u8861<br>\u56e0\u4e3a\u4eba\u7c7b\u603b\u5728\u4e00\u65b9\u5f3a\u5927\u4e4b\u540e\u4fb5\u72af\u522b\u7684\u56fd\u5bb6<br>\u4e0d\u8fc7\u81ea\u4eceLOKI\u56e0\u4e3a\u89e3\u51b3\u9b54\u738b\u68a6\u7f57\u514b\u800c\u6ca1\u80fd\u53ca\u65f6\u8d76\u56de\u523a\u5ba2\u5de5\u4f1a\u540e<br>\u523a\u5ba2\u56e2\u5c31\u5728SAKARY\u7684\u624b\u4e0b\u6c38\u8fdc\u6d88\u5931\u4e86", 
+        "criticalHit": 20, 
+        "MoveAniSpeed": 100, 
+        "id": 4, 
+        "icon": "HeadCike"
+    }
+]

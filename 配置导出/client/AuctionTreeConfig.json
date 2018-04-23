@@ -1,0 +1,52 @@
+[
+    {
+        "node": 1, 
+        "nodeName": "\u5236\u4f5c\u6750\u6599", 
+        "parentNode": 0
+    }, 
+    {
+        "node": 2, 
+        "nodeName": "\u5b9d\u77f3", 
+        "parentNode": 0
+    }, 
+    {
+        "node": 3, 
+        "nodeName": "\u88c5\u5907", 
+        "parentNode": 0
+    }, 
+    {
+        "node": 4, 
+        "nodeName": "\u6597\u5fd7\u5b9d\u77f3", 
+        "parentNode": 2
+    }, 
+    {
+        "node": 5, 
+        "nodeName": "\u7b4b\u9aa8\u5b9d\u77f3", 
+        "parentNode": 2
+    }, 
+    {
+        "node": 6, 
+        "nodeName": "\u4f53\u9b44\u5b9d\u77f3", 
+        "parentNode": 2
+    }, 
+    {
+        "node": 7, 
+        "nodeName": "\u7cbe\u51c6\u5b9d\u77f3", 
+        "parentNode": 2
+    }, 
+    {
+        "node": 8, 
+        "nodeName": "\u8eab\u6cd5\u5b9d\u77f3", 
+        "parentNode": 2
+    }, 
+    {
+        "node": 9, 
+        "nodeName": "\u9970\u54c1", 
+        "parentNode": 3
+    }, 
+    {
+        "node": 10, 
+        "nodeName": "\u6b66\u5668", 
+        "parentNode": 3
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "timeScore": "36000/n1", 
+        "killMonsterScore": "Math.floor(10*n1+100*n2)", 
+        "id": 1
+    }, 
+    {
+        "timeScore": "36000/n1", 
+        "killMonsterScore": "Math.floor(10*n1+100*n2)", 
+        "id": 2
+    }, 
+    {
+        "timeScore": "36000/n1", 
+        "killMonsterScore": "Math.floor(10*n1+100*n2)", 
+        "id": 3
+    }, 
+    {
+        "timeScore": "36000/n1", 
+        "killMonsterScore": "Math.floor(10*n1+100*n2)", 
+        "id": 4
+    }
+]

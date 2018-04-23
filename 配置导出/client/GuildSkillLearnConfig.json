@@ -1,0 +1,42 @@
+[
+    {
+        "level": 10, 
+        "attribute": "", 
+        "skillLevel": 1, 
+        "exp": 0, 
+        "preSkills": "", 
+        "donate": 10, 
+        "id": 1, 
+        "skillId": 1001
+    }, 
+    {
+        "level": 15, 
+        "attribute": "", 
+        "skillLevel": 2, 
+        "exp": 0, 
+        "preSkills": "1001_1", 
+        "donate": 100, 
+        "id": 2, 
+        "skillId": 1001
+    }, 
+    {
+        "level": 18, 
+        "attribute": "", 
+        "skillLevel": 3, 
+        "exp": 0, 
+        "preSkills": "1001_2", 
+        "donate": 200, 
+        "id": 3, 
+        "skillId": 1001
+    }, 
+    {
+        "level": 20, 
+        "attribute": "", 
+        "skillLevel": 4, 
+        "exp": 0, 
+        "preSkills": "1001_3", 
+        "donate": 300, 
+        "id": 4, 
+        "skillId": 1001
+    }
+]

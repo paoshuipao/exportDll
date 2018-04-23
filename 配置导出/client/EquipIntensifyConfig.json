@@ -1,0 +1,13 @@
+[
+    {
+        "node": 1, 
+        "needMaterial": "13_0_1|14_0_1", 
+        "pay": 1000, 
+        "targetEquipId": 25, 
+        "equipName": "\u53e4\u7ed3\u4e91\u5927\u5251", 
+        "moneyType": 1, 
+        "parentNode": 0, 
+        "equipId": 24, 
+        "targetEquipName": "\u7ed3\u4e91\u5927\u5251"
+    }
+]

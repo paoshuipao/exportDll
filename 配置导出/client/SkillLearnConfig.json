@@ -1,0 +1,57 @@
+[
+    {
+        "skillDescript": "", 
+        "canDemotion": false, 
+        "itemIds": "", 
+        "restrictLevel": 2, 
+        "skillPoint": 0, 
+        "preSkills": "", 
+        "addLevel": 2, 
+        "id": 1, 
+        "skillId": 3
+    }, 
+    {
+        "skillDescript": "", 
+        "canDemotion": false, 
+        "itemIds": "", 
+        "restrictLevel": 4, 
+        "skillPoint": 0, 
+        "preSkills": "", 
+        "addLevel": 1, 
+        "id": 2, 
+        "skillId": 4
+    }, 
+    {
+        "skillDescript": "", 
+        "canDemotion": false, 
+        "itemIds": "", 
+        "restrictLevel": 8, 
+        "skillPoint": 0, 
+        "preSkills": "", 
+        "addLevel": 4, 
+        "id": 3, 
+        "skillId": 5
+    }, 
+    {
+        "skillDescript": "", 
+        "canDemotion": false, 
+        "itemIds": "", 
+        "restrictLevel": 10, 
+        "skillPoint": 0, 
+        "preSkills": "", 
+        "addLevel": 8, 
+        "id": 4, 
+        "skillId": 6
+    }, 
+    {
+        "skillDescript": "", 
+        "canDemotion": false, 
+        "itemIds": "", 
+        "restrictLevel": 20, 
+        "skillPoint": 0, 
+        "preSkills": "", 
+        "addLevel": 1, 
+        "id": 5, 
+        "skillId": 143
+    }
+]

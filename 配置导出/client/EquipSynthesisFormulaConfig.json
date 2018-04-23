@@ -1,0 +1,252 @@
+[
+    {
+        "node": 1, 
+        "nodeName": "\u7ed3\u4e91\u5927\u5251", 
+        "pay": 0, 
+        "moneyType": 0, 
+        "parentNode": 0, 
+        "canBatch": false, 
+        "needGoods": "", 
+        "targetGoods": ""
+    }, 
+    {
+        "node": 2, 
+        "nodeName": "", 
+        "pay": 0, 
+        "moneyType": 0, 
+        "parentNode": 0, 
+        "canBatch": false, 
+        "needGoods": "", 
+        "targetGoods": ""
+    }, 
+    {
+        "node": 3, 
+        "nodeName": "", 
+        "pay": 0, 
+        "moneyType": 0, 
+        "parentNode": 0, 
+        "canBatch": false, 
+        "needGoods": "", 
+        "targetGoods": ""
+    }, 
+    {
+        "node": 4, 
+        "nodeName": "", 
+        "pay": 0, 
+        "moneyType": 0, 
+        "parentNode": 0, 
+        "canBatch": false, 
+        "needGoods": "", 
+        "targetGoods": ""
+    }, 
+    {
+        "node": 5, 
+        "nodeName": "", 
+        "pay": 0, 
+        "moneyType": 0, 
+        "parentNode": 0, 
+        "canBatch": false, 
+        "needGoods": "", 
+        "targetGoods": ""
+    }, 
+    {
+        "node": 6, 
+        "nodeName": "", 
+        "pay": 0, 
+        "moneyType": 0, 
+        "parentNode": 0, 
+        "canBatch": false, 
+        "needGoods": "", 
+        "targetGoods": ""
+    }, 
+    {
+        "node": 7, 
+        "nodeName": "", 
+        "pay": 0, 
+        "moneyType": 0, 
+        "parentNode": 0, 
+        "canBatch": false, 
+        "needGoods": "", 
+        "targetGoods": ""
+    }, 
+    {
+        "node": 8, 
+        "nodeName": "", 
+        "pay": 0, 
+        "moneyType": 0, 
+        "parentNode": 0, 
+        "canBatch": false, 
+        "needGoods": "", 
+        "targetGoods": ""
+    }, 
+    {
+        "node": 9, 
+        "nodeName": "", 
+        "pay": 0, 
+        "moneyType": 0, 
+        "parentNode": 0, 
+        "canBatch": false, 
+        "needGoods": "", 
+        "targetGoods": ""
+    }, 
+    {
+        "node": 10, 
+        "nodeName": "", 
+        "pay": 0, 
+        "moneyType": 0, 
+        "parentNode": 0, 
+        "canBatch": false, 
+        "needGoods": "", 
+        "targetGoods": ""
+    }, 
+    {
+        "node": 11, 
+        "nodeName": "", 
+        "pay": 0, 
+        "moneyType": 0, 
+        "parentNode": 0, 
+        "canBatch": false, 
+        "needGoods": "", 
+        "targetGoods": ""
+    }, 
+    {
+        "node": 12, 
+        "nodeName": "", 
+        "pay": 0, 
+        "moneyType": 0, 
+        "parentNode": 0, 
+        "canBatch": false, 
+        "needGoods": "", 
+        "targetGoods": ""
+    }, 
+    {
+        "node": 13, 
+        "nodeName": "", 
+        "pay": 0, 
+        "moneyType": 0, 
+        "parentNode": 0, 
+        "canBatch": false, 
+        "needGoods": "", 
+        "targetGoods": ""
+    }, 
+    {
+        "node": 14, 
+        "nodeName": "", 
+        "pay": 0, 
+        "moneyType": 0, 
+        "parentNode": 0, 
+        "canBatch": false, 
+        "needGoods": "", 
+        "targetGoods": ""
+    }, 
+    {
+        "node": 15, 
+        "nodeName": "", 
+        "pay": 0, 
+        "moneyType": 0, 
+        "parentNode": 0, 
+        "canBatch": false, 
+        "needGoods": "", 
+        "targetGoods": ""
+    }, 
+    {
+        "node": 16, 
+        "nodeName": "", 
+        "pay": 0, 
+        "moneyType": 0, 
+        "parentNode": 0, 
+        "canBatch": false, 
+        "needGoods": "", 
+        "targetGoods": ""
+    }, 
+    {
+        "node": 17, 
+        "nodeName": "", 
+        "pay": 0, 
+        "moneyType": 0, 
+        "parentNode": 0, 
+        "canBatch": false, 
+        "needGoods": "", 
+        "targetGoods": ""
+    }, 
+    {
+        "node": 18, 
+        "nodeName": "", 
+        "pay": 0, 
+        "moneyType": 0, 
+        "parentNode": 0, 
+        "canBatch": false, 
+        "needGoods": "", 
+        "targetGoods": ""
+    }, 
+    {
+        "node": 19, 
+        "nodeName": "", 
+        "pay": 0, 
+        "moneyType": 0, 
+        "parentNode": 0, 
+        "canBatch": false, 
+        "needGoods": "", 
+        "targetGoods": ""
+    }, 
+    {
+        "node": 20, 
+        "nodeName": "", 
+        "pay": 0, 
+        "moneyType": 0, 
+        "parentNode": 0, 
+        "canBatch": false, 
+        "needGoods": "", 
+        "targetGoods": ""
+    }, 
+    {
+        "node": 21, 
+        "nodeName": "", 
+        "pay": 0, 
+        "moneyType": 0, 
+        "parentNode": 0, 
+        "canBatch": false, 
+        "needGoods": "", 
+        "targetGoods": ""
+    }, 
+    {
+        "node": 22, 
+        "nodeName": "", 
+        "pay": 0, 
+        "moneyType": 0, 
+        "parentNode": 0, 
+        "canBatch": false, 
+        "needGoods": "", 
+        "targetGoods": ""
+    }, 
+    {
+        "node": 23, 
+        "nodeName": "", 
+        "pay": 0, 
+        "moneyType": 0, 
+        "parentNode": 0, 
+        "canBatch": false, 
+        "needGoods": "", 
+        "targetGoods": ""
+    }, 
+    {
+        "node": 24, 
+        "nodeName": "", 
+        "pay": 0, 
+        "moneyType": 0, 
+        "parentNode": 0, 
+        "canBatch": false, 
+        "needGoods": "", 
+        "targetGoods": ""
+    }, 
+    {
+        "node": 25, 
+        "nodeName": "", 
+        "pay": 0, 
+        "moneyType": 0, 
+        "parentNode": 0, 
+        "canBatch": false, 
+        "needGoods": "", 
+        "targetGoods": ""
+    }
+]

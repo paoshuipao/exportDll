@@ -1,0 +1,92 @@
+[
+    {
+        "vipExp": 100, 
+        "vipLevel": 1, 
+        "friendsLimit": 50, 
+        "id": 1
+    }, 
+    {
+        "vipExp": 400, 
+        "vipLevel": 2, 
+        "friendsLimit": 60, 
+        "id": 2
+    }, 
+    {
+        "vipExp": 900, 
+        "vipLevel": 3, 
+        "friendsLimit": 70, 
+        "id": 3
+    }, 
+    {
+        "vipExp": 2200, 
+        "vipLevel": 4, 
+        "friendsLimit": 80, 
+        "id": 4
+    }, 
+    {
+        "vipExp": 5300, 
+        "vipLevel": 5, 
+        "friendsLimit": 90, 
+        "id": 5
+    }, 
+    {
+        "vipExp": 12800, 
+        "vipLevel": 6, 
+        "friendsLimit": 100, 
+        "id": 6
+    }, 
+    {
+        "vipExp": 30900, 
+        "vipLevel": 7, 
+        "friendsLimit": 110, 
+        "id": 7
+    }, 
+    {
+        "vipExp": 74600, 
+        "vipLevel": 8, 
+        "friendsLimit": 120, 
+        "id": 8
+    }, 
+    {
+        "vipExp": 180100, 
+        "vipLevel": 9, 
+        "friendsLimit": 130, 
+        "id": 9
+    }, 
+    {
+        "vipExp": 434800, 
+        "vipLevel": 10, 
+        "friendsLimit": 140, 
+        "id": 10
+    }, 
+    {
+        "vipExp": 1049700, 
+        "vipLevel": 11, 
+        "friendsLimit": 150, 
+        "id": 11
+    }, 
+    {
+        "vipExp": 2534200, 
+        "vipLevel": 12, 
+        "friendsLimit": 160, 
+        "id": 12
+    }, 
+    {
+        "vipExp": 6118100, 
+        "vipLevel": 13, 
+        "friendsLimit": 170, 
+        "id": 13
+    }, 
+    {
+        "vipExp": 14770400, 
+        "vipLevel": 14, 
+        "friendsLimit": 180, 
+        "id": 14
+    }, 
+    {
+        "vipExp": 35658900, 
+        "vipLevel": 15, 
+        "friendsLimit": 190, 
+        "id": 15
+    }
+]
