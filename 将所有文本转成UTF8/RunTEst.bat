@@ -1,0 +1,2 @@
+python DoTEst.py
+pause

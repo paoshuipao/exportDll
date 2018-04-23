@@ -1,3 +1,0 @@
-python export.py
-
-pause
