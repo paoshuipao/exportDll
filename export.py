@@ -46,9 +46,15 @@ classTemplate = '''
 		{
 			%s
 		}
+		%s
 	}
 '''
-
+toStringTemplate = '''
+		public override string ToString()
+		{
+			return %s;
+		}
+'''
 
 attriIntTemplate = '''
 		public int %s;
@@ -115,14 +121,14 @@ logging.basicConfig(filename='error.log',level=logging.DEBUG)
 
 #处理每个sheet
 def handleSheet(sheet):
-	cl = classTemplate
-	declare = ''
-	arg = ''
-	assign = ''
-	dataClass = ''
+	cl = classTemplate                      # 最终的Bean
+	declare = ''                            # public int %s;
+	arg = ''                                # 参数 int id1, string Name1,
+	assign = ''                             # Name = Name1;
+	dataClass = ''                          # bean 的名称
 	dataObj = ''
 	objList = ''
-	
+	toStr=''                                # toString 要写的内容
 	print sheet.name
 	
 	nrows = sheet.nrows
@@ -136,8 +142,9 @@ def handleSheet(sheet):
 	row_data = sheet.row_values(0)
 	col_data = sheet.col_values(0)
 	
-	fileName = row_data[1]
+	fileName = row_data[1]                  # 第1行第2列       
 	if fileName == "":
+		print("第1行第2列的名字没有设置")
 		return
 	
 	#补充数据  结构一致
@@ -154,14 +161,33 @@ def handleSheet(sheet):
 		
 	dataClass = fileName+"Data"
 	dataObj = fileName
-	
-	keyRow = sheet.row_values(3)
+
+
+	thirdHeng = sheet.row_values(2)          # 第3行写的注释
+
+
+
+	keyRow = sheet.row_values(3)             # Excel 表中的第4行数据
 	typeRow = sheet.row_values(4)
 	outPut = []
 	
-	for i in xrange(2, ncols):
+	for i in xrange(2, ncols):               # 从第3行开始遍历所有类型
 		if keyRow[i] != "":
 			k = keyRow[i]
+			# 把注释添加进 tostring
+			if thirdHeng[i] !="":
+				if i !=0:
+					toStr += u'\"     '
+				else:
+					toStr += u'\"'
+				toStr += thirdHeng[i]
+				toStr += u'- \"+'
+			else:
+				toStr +=u"\"第3行缺少注释 —— \""
+				
+			toStr += k
+			toStr += "+"
+
 			if typeRow[i] == "Integer":
 				#IConfig 接口定义的id
 				if k != "id" and k != 'useLevel':
@@ -178,9 +204,9 @@ def handleSheet(sheet):
 				arg += "string %s1, " % (k)
 			assign += consTemplate % (k, k)
 	arg = arg[:-2]
-	
-	# TODO
-	cl = cl % (dataClass, declare, dataClass, arg, assign)
+	toStr = toStr[:-1]                                  # 把最后的+号去除
+	toStr = toStringTemplate % (toStr)
+	cl = cl % (dataClass, declare, dataClass, arg, assign,toStr)
 	allClass.append(cl)
 	
 	over = False
